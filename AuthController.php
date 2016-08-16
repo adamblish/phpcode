@@ -11,8 +11,9 @@ use Tricks\Repositories\UserRepositoryInterface;
 
 class AuthController extends BaseController
 {
+
     /**
-     * User Repository.
+     * User Repositories.
      *
      * @var \Tricks\Repositories\UserRepositoryInterface
      */
